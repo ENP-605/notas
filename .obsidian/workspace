@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fisica/21-08-09/Introduccion_al_curso.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisica/21-08-09/Introduccion_al_curso.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "27cd5ad7e148d2a1",
   "lastOpenFiles": [
-    "Fisica/21-08-09/Introduccion_al_curso.md",
     "README.md",
+    "Fisica/21-08-09/Introduccion_al_curso.md",
     "Fisica/Introduccion_al_curso.md",
     "Matematicas/Introduccion_al_curso.md",
     "Fisica/Introduccion al curso.md",
