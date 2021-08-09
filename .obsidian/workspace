@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "1fbd4c5d9f63a647",
+    "type": "split",
+    "children": [
+      {
+        "id": "27cd5ad7e148d2a1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fisica/21-08-09/Introduccion_al_curso.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "851859ce01b2deb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2a2945d1d4e7244",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b68d6927022f4e06",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c46edc285e6ba828",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4c19c42d6f4fdbaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "bda544d5247dcf5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b60c21d686a003c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fisica/21-08-09/Introduccion_al_curso.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "27cd5ad7e148d2a1",
+  "lastOpenFiles": [
+    "Fisica/21-08-09/Introduccion_al_curso.md",
+    "README.md",
+    "Fisica/Introduccion_al_curso.md",
+    "Matematicas/Introduccion_al_curso.md",
+    "Fisica/Introduccion al curso.md",
+    "Matematicas/Introducción al curso.md",
+    "Fisica/Introducción al curso.md",
+    "Matematicas/Introduccion al curso.md",
+    "Untitled.md",
+    "Matematicas/Untitled.md"
+  ]
+}
