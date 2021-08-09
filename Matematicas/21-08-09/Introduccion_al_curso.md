@@ -20,8 +20,8 @@
 - La clase no se graba oficialmente.
 - La tolerancia de zoom es de 10 minutos en clases de 2 horas y de 5 en clases de una hora.
 - Registro en Khan Academy es con el mismo correo y el mismo formato de nombre que en classroom.
-- No pasa lista mas que díás de examenes.
-- No pide cámara más que en díás de examenes.
+- No pasa lista mas que días de examenes.
+- No pide cámara más que en días de examenes.
 - La ponderación se encuentra establecida en Classroom
 - EL único justificante es el que emite la secretaría escolar
 - No se acepta trabajos/examen/etc sin nombre.
