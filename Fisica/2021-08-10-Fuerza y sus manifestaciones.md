@@ -72,3 +72,6 @@ f= fuerza de fricción
 µ= coeficiente de rugosidad
 W= Peso
 g= gravedad
+
+# Tarea
+Resolver problema numero 7 Página
