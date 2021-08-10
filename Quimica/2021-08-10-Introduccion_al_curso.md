@@ -6,7 +6,7 @@
 
 ### Forma de trabajo
 - Autoformación del alumno revisando continuamente guía y cuaderno de trabajo
-- REsolución individual de guí/cuaderno de trabajo complementando con la clase.
+- Resolución individual de guía/cuaderno de trabajo complementando con la clase.
 - Cuestionaruios en el aula virtual individuales o en equipos (5-6 personas) teniendo 2 intentos por cuestionario y se queda como oficial el intento de mayor puntaje.
 
 ### Fundamentos del proyecto de investigación
