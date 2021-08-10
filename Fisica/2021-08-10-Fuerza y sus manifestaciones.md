@@ -8,10 +8,10 @@
 
 **Rugosidad**: al pasar un objeto se genera una resistencia generando fuerza de fricción, *todo material es rugoso a menos que este bien pulido*
 
-A la representaciónm de fuerzas en el plano coordenado se le llama **Diagrama de Cuerpo Libre**
+A la representación de fuerzas en el plano coordenado se le llama **Diagrama de Cuerpo Libre**
 
 - La fuerza mínima para levantar un objeto, es proporcional al peso.
-- La fuerza para desplazar un objeto sobre un asuperficie, es proporcional al peso más las fuerzas que se opongan
+- La fuerza para desplazar un objeto sobre una superficie, es proporcional al peso más las fuerzas que se opongan
 <img src="./img/2021-08-10-08:18.png">
 
 ### Trazar diagrama de cuerpo libre
@@ -64,14 +64,16 @@ Por lo que las fuerzas estarían en equilibrio y el cuerpo en reposo
 > En horizontal el peso es igual a la normal pero no cuando se encuentra en un ángulo 
 - masa. m = W/g
 
+**Resolución**
+
 <img src="./img/2021-08-10-09:23.png">
 
-v3= velocidad 3 segundos
-a= aceleración
-f= fuerza de fricción
-µ= coeficiente de rugosidad
-W= Peso
-g= gravedad
+- v3= velocidad 3 segundos
+- a= aceleración
+- f= fuerza de fricción
+- µ= coeficiente de rugosidad
+- W= Peso
+- g= gravedad
 
 # Tarea
 Resolver problema numero 7 Página
