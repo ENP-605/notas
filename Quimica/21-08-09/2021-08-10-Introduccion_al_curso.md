@@ -1,3 +1,5 @@
+# Presentación en classroom
+
 ### Dinámica de clase
 - Las clases sincrónicas serán por google meet entre 2 y 3 horas a la semana.
 -  Dudas se contestan a través de classroom hasta las 17:00, cuestiones de urgencia con jefa de grupo.
@@ -74,3 +76,6 @@ Final | - | 28/mar/2022 al 01/abr/2022 | -
 - Visitas grabadas
 - Nuevas propuestas
 
+# Primera clase
+
+- Avisarle cuando quedan 10 minutos para que se acabe la clase.
