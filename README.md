@@ -1,3 +1,4 @@
+
 ##### [Link de Horario](https://docs.google.com/spreadsheets/d/1iL8zhNgxIzMZkzdPiyTwXupv6C1p-6escG2qeNenVuw/edit?usp=sharing)
 
 > El horario solo puedes acceder con el correo institucional.
@@ -11,8 +12,6 @@ Este será el repositorio de git donde se almacenarán los apuntes o notas duran
 **Importante**
 - No se van a incluir tarea o ejercicios ya resueltos, puede que incluya ejercicios de ejemplo pero nada más para evitar problemas.
 
-##### ¿Cómo visualizo esto?
-Puedes verlo tal cual en esta página, sin embargo, estas notas fueron creadas con el programa [obsidian](https://obsidian.md) por lo que si lo quieres ver de la mejor forma, te recomiendo clonar el repositorio y modificar esta carpeta con obsidian.
- 
- Si quieres añadir algo sin usar obsidian, puedes hacerlo, solo asegurate que el formato sea el de markdown.
+##### Quiero apoyar
+Si vas a añádir notas, debes hacerlo con el formato markdown, es un formato simple de sintaxis de texto que se puede escribir con cualquier editor de texto, [aquí](https://github.com/tchapi/markdown-cheatsheet) te dejo una guía. Este formato es el más fácil de visualizar en github, por eso la elección. 
 
