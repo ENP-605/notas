@@ -34,3 +34,21 @@
 - Cuaderno o área de carpeta solo para la materia.
 - Estuche de geometría completo.
 - Lápiz y colores para los trazos.
+
+
+### Evaluación
+
+Actividad | Calificación
+--- | ---
+Classroom | 25%
+Khan Academy | 25%
+Proyecto | 20%
+Examentes parciales | 25%
+Participación, autoevaluación | 5%
+Total | 100%
+
+Las evaluaciones se evaluan:
+- Mayor o igual a .5 para arriba
+- Menor a .5 abajo
+
+
