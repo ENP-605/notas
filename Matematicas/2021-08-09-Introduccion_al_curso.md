@@ -44,11 +44,17 @@ Classroom | 25%
 Khan Academy | 25%
 Proyecto | 20%
 Examentes parciales | 25%
-Participación, autoevaluación | 5%
+Participación y/o autoevaluación | 5%
 Total | 100%
 
-Las evaluaciones se evaluan:
+Los promedios en parciales, son:
 - Mayor o igual a .5 para arriba
 - Menor a .5 abajo
+
+Para excentar debes de tener mas de 7 final, siempre y cuando no tengas NP.
+
+### Formato para la entreaga de trabajos
+
+**Titulo del documento**: Número de la actividad - Apellidos - Nombre - Nombre de la actividad
 
 
