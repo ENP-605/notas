@@ -4,7 +4,7 @@
 - La fuerza es la interacción de dos o mas cuerpos
 - **Vector :** la acción de empujar. arrastrar, jalar, soportar, etc. tiene **magnitud, dirección y sentido.**
 
-<img src="./img/2021-08-10-08:06.png">
+<img src="./img/2021-08-10-08-06.png">
 
 **Rugosidad**: al pasar un objeto se genera una resistencia generando fuerza de fricción, *todo material es rugoso a menos que este bien pulido*
 
@@ -12,7 +12,7 @@ A la representación de fuerzas en el plano coordenado se le llama **Diagrama de
 
 - La fuerza mínima para levantar un objeto, es proporcional al peso.
 - La fuerza para desplazar un objeto sobre una superficie, es proporcional al peso más las fuerzas que se opongan
-<img src="./img/2021-08-10-08:18.png">
+<img src="./img/2021-08-10-08-18.png">
 
 ### Trazar diagrama de cuerpo libre
 1. Trazar un eje de coordenadas sobre los objetos
@@ -22,7 +22,7 @@ A la representación de fuerzas en el plano coordenado se le llama **Diagrama de
 ### Posición normal de triangulo rectangulo
 El cateto adyacente se alinea al eje x (coseno) y el cateto opuesto corresponde con eje y (seno)
 
-<img src="./img/2021-08-10-08:33.png">
+<img src="./img/2021-08-10-08-33.png">
 
 # Fuerza y equilibro
 
@@ -34,7 +34,7 @@ La fuerza aplicada ocasiona mantener el equilibnrio o el no equilibro, tanto en 
 
 La suma de fierzas en el desplazamiento están bajo la acción de una misma aceleración y cambio de velocidad.
 
-<img src="./img/2021-08-10-08:48.png">
+<img src="./img/2021-08-10-08-48.png">
 
 #### Ejemplo
 
@@ -49,11 +49,11 @@ Por lo que las fuerzas estarían en equilibrio y el cuerpo en reposo
 
 #### Ejemplo en una velocidad constante
 
-<img src="./img/2021-08-10-08:57.png">
+<img src="./img/2021-08-10-08-57.png">
 
 #### Ejercicio 
 
-<img src="./img/2021-08-10-09:13.png">
+<img src="./img/2021-08-10-09-13.png">
 
 - Un kp es un kilogramo fuerza o kilopondio, ejemplo de la vida es la presión en las llantas. Equivale a 9.81N a nivel del mar, se redondea a 10N por lo que **1kp=10N** 
 - Presión: Fuerza sobre unidad de área
@@ -66,7 +66,7 @@ Por lo que las fuerzas estarían en equilibrio y el cuerpo en reposo
 
 **Resolución**
 
-<img src="./img/2021-08-10-09:23.png">
+<img src="./img/2021-08-10-09-23.png">
 
 - v3= velocidad 3 segundos
 - a= aceleración
