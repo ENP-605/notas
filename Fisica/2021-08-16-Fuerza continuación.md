@@ -17,8 +17,19 @@
 - La F mov es el resultado de la suma de fuerza, es la fuerza neta.
 - El W y N son manifestaciones de fuerza.
 - La fuerza normal es la que responde a un estimulo, en este caso el peso.
+- En el resultado nos falta una variable, para obtenerla se tiene que resolver el segundo diagrama.
 
 > Diagrama 2
 <img src="./img/2021-08-16-09-02.png">
 
-> Con este profe casi todo se redondea, por ejemplo, la gravedad es 9.81 m/s2 pero la redondea a 10 m/s2
+### Fluidos de movimiento
+
+Lo líquidoes en movimiento tienen su equilibrio cuando el flujo (caudal=Q) o la suma de todas las enerías que actúán debe ser constante
+
+<img src="./img/2021-08-16-09-30.png">
+
+### Ecuación de continuidad y caudal
+
+Para la dinámica de un fluido ideal, se considera como: flujo uniforme, irrotacional, no viscoso e incomprensible.
+
+<img src="./img/2021-08-16-09-31.png">
