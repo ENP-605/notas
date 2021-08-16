@@ -33,3 +33,14 @@ Lo líquidoes en movimiento tienen su equilibrio cuando el flujo (caudal=Q) o la
 Para la dinámica de un fluido ideal, se considera como: flujo uniforme, irrotacional, no viscoso e incomprensible.
 
 <img src="./img/2021-08-16-09-31.png">
+
+- A mayor area, menor velocidad.
+- El caudal es la cantidad de volumen que pasa en un cierto tiempo.
+
+### Ejercicio 1
+
+<img src="./img/2021-08-16-09-55.png">
+
+# Tarea
+
+<img src="./img/2021-08-16-10-12.png">
