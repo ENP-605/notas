@@ -13,6 +13,11 @@
 > Diagrama 1
 <img src="./img/2021-08-16-08-55.png">
 
+- La T siempre representa tensión, una manifestación de fuerza.
+- La F mov es el resultado de la suma de fuerza, es la fuerza neta.
+- El W y N son manifestaciones de fuerza.
+- La fuerza normal es la que responde a un estimulo, en este caso el peso.
+
 > Diagrama 2
 <img src="./img/2021-08-16-09-02.png">
 
