@@ -1,4 +1,3 @@
-
 # Esta es una prueba
 ## Esta es una prueba
 ### Esta es una prueba
@@ -18,6 +17,10 @@ hdcxUIGB7ycuxasdfgc
 2. Segundo
 3. Tercero
 
+* dasdasd
+* dasdas
+
+    esta es una nota
 
 **jdaisjda**
 
@@ -31,3 +34,5 @@ fresa | 3
 chocolate | 5
 
 # clase super dificil :(
+
+## dasda
