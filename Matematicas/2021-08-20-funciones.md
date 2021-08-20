@@ -76,3 +76,9 @@ a | b
 1 | 1
 2 | 3/2
 4 | 2
+
+El conjunto de salida es de 0 a 4 por lo que no existiran 
+
+## Tarea 
+
+-revisar el punto 1.5 de classroom
