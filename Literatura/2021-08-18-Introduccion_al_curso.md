@@ -10,3 +10,4 @@
 - Con la jefa avisar cuando no se puede entrar y con la tarea
 - Los equipos los escoge la profesora
 - Si trabajas si redondea las decimas
+- Toma en cuenta asistencias
