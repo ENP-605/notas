@@ -81,4 +81,5 @@ El conjunto de salida es de 0 a 4 por lo que no existiran
 
 ## Tarea 
 
--revisar el punto 1.5 de classroom
+- Revisar el punto 1.5 de classroom
+- Realizar tarea en Khan Academy
