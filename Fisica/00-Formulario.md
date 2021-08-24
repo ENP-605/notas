@@ -24,6 +24,10 @@ Caudal =  Volumen / tiempo  |
 --- |  
 Q = V / t
 
+(Velocidad final)² =  (Velocidad inicial)² + 2 (aceleración * distancia)  | 
+--- |  
+Vf² = Vi² + 2ad
+
 # Notas
 
 - Con este profe casi todo se redondea en ejercicios numéricos, por ejemplo, la gravedad es 9.81 m/s2 pero la redondea a 10 m/s2
