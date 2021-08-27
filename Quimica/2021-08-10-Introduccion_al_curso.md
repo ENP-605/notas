@@ -76,6 +76,6 @@ Final | - | 28/mar/2022 al 01/abr/2022 | -
 - Visitas grabadas
 - Nuevas propuestas
 
-# Primera clase
+# Recordar
 
 - Avisarle cuando quedan 10 minutos para que se acabe la clase.
