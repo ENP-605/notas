@@ -56,14 +56,15 @@ contantes | Trigonometricas {directas, reciprocas, inversas}
 lineales | Exponenciales
 cuadraticas | Logarítmicas
 cúbicas |
-polinomiales |
+polinomiales | 
 radicales |
 valor absoluto |
 racionales |
+por partes |
 
 ## Notación de una función
 
-f : A -> B , f(a) = regla de correspondencia
+f(a) : A -> B , f(a) = regla de correspondencia
 > A es el domino y B el contradominio
 
 Ejemplo:
@@ -78,8 +79,3 @@ a | b
 4 | 2
 
 El conjunto de salida es de 0 a 4 por lo que no existiran 
-
-## Tarea 
-
-- Revisar el punto 1.5 de classroom
-- Realizar tarea en Khan Academy

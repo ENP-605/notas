@@ -25,3 +25,10 @@
 
 #### Papelerías en CDMX: 
 En san juan de letran line 8, en la republica del salvador hay varias papelerías 
+
+### Materiales extra
+
+- Tabla de fibra cel de mayor tamaño al cuaderno de agujeta, entre 8 y 9 milimetros de grosor
+- Regla t para la tabla de fibracel
+- Tamaño de los estilogrados: más delgado 0.01mm, 0.5mm y 1.0 mm
+- Stabilo mínimo 8 colores
