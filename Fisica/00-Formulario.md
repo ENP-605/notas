@@ -32,3 +32,10 @@ Vf² = Vi² + 2ad
 
 - Con este profe casi todo se redondea en ejercicios numéricos, por ejemplo, la gravedad es 9.81 m/s2 pero la redondea a 10 m/s2
 - No es obligatorio el Sistema Internacional de unidades
+
+**Densidad de agua de mar**: 1030 kg/m3
+
+Densidad del agua | -
+--- | ---
+CGS | 1
+MKS | 1000

@@ -31,3 +31,7 @@ El trabajo neto realizado en el desplazamiento de un fluido, es igual a la energ
 ###### Ejercicio 1
 
 <img src="./img/2021-08-30-10-06.png">
+
+###### Ejercicio 2
+
+<img src="./img/2021-08-31-08-11.png">
