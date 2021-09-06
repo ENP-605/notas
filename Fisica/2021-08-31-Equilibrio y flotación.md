@@ -21,6 +21,10 @@ Ub objeto sumergido parcial o totalmente (FLotación) es un fluido, experimenta 
 
 ###### Ejercicio 3
 
-<img src="./img/2021-08-31-09-35.png">
+<img src="./img/2021-08-31-09-35.png"> 
+
+otra respuesta 
+
+<img src="./img/2021-09-06-09-05.png">
 
 La ventaja mecánica habla de la eficiencia de la máquina, la relación entre salida y entrada.
