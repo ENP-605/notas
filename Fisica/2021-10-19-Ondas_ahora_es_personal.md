@@ -31,5 +31,3 @@ Un movimiento circular no es una onda.
 > Recordar que (ωt) es un ángulo.
 
 Cuando el valor es -1 o +1 es el máximo de velocidad.
-
-![Analisis gráfico](./img/2021-10-19-09-19.png)
