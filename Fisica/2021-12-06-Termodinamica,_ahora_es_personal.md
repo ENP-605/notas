@@ -1,37 +1,14 @@
 # Temodinamica
 
-## Proceso a temperatura constante o Proceso isotermico
+![Trabajo termodinamico](./img/2021-12-06-09-01.png)
 
-A mayor presión, menor volumen y viceversa.
+pV = trabajo termodinamico, se mide en Joules.
 
-![Ley de Boyle](./img/2021-11-30-08-17.png)
-![Ley de Boyle ejercicio](./img/2021-11-30-08-20.png)
+## Ejercicios
 
-## Proceso a volumen constante o Proceso isovolumétrico o isocórico
+![eje1](./img/2021-12-06-09-21.png)
 
-![Ley de ??](./img/2021-11-30-08-28.png)
-![Ley de ?? ejercicio](./img/2021-11-30-08-40.png)
+- La masa molar se saca de la tabla periodica.
+- Cuando diga aire, se calcula del o²
 
-Se debe de convertir a kelvin pues se sigue la temperatura ideal.
-
-## Ecuación general
-
-![Ecuacion general](./img/2021-11-30-08-42.png)
-
-### Ejercicio 1
-
-![Ecuacion general ejrcicio 1](./img/2021-11-30-08-49.png)
-
-### Ejercicio 2
-
-![Ecuacion general ejrcicio 2](./img/2021-11-30-08-57.png)
-
-> Recordar siempre pasar de centigrados a kelvin
-
-### Ejercicio 3
-
-![Ecuacion general ejrcicio 3](./img/2021-11-30-09-06.png)
-
-Condiciones en PTE = 1 atm y 273 grados kelvin
-
-El profe se quedó con duda xd.
+![eje1](./img/2021-12-06-09-27.png)
