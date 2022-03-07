@@ -9,7 +9,7 @@
 Normalmente los resultados de un capacitor son muy pequeños, por
  lo que en el mercado se suele usar el micro µ faradios o incluso
  como  en este ejercicio que se usa el micro-micro-raradio µµF.
- Otras opciones son pico Faradios.
+ Otras opciones son nano y pico Faradios.
 
 En hogares se usan un maximo de 125 volts para el uso de aparatos
  electricos, si se reciben mas volts de los necesarios afectan
